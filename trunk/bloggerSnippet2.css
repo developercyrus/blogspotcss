@@ -1,0 +1,11 @@
+pre.code1 {
+	border: 1px dashed rgb(153, 153, 153); 
+	padding: 5px; 
+	overflow: auto; 
+	font-family: Courier New; 
+	color: rgb(0, 0, 0); 
+	background-color: rgb(238, 238, 238); 
+	font-size: 14px; 
+	line-height: 14px;
+}
+
