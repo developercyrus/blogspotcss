@@ -1,0 +1,1 @@
+host a css for blogspot
